@@ -220,3 +220,12 @@ __marimo__/
 .streamlit/secrets.toml
 
 fall-2026-ecse-551-task-1
+# Task 2 feature cache
+outputs/features/
+# LaTeX build files
+report/*.aux
+report/*.log
+report/*.pdf
+
+# macOS
+.DS_Store
