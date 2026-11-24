@@ -230,3 +230,6 @@ report/*.pdf
 
 # macOS
 .DS_Store
+
+# Dataset images
+archive/
